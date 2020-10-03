@@ -1,7 +1,6 @@
 # Сергей Щербаков, 19 y.o.
 
-@mintyleaf, @mintyleaf_dev,
-mintyleafdev@gmail.com
+[@mintyleaf](t.me/mintyleaf), <mintyleafdev@gmail.com>
 
 
 ## Опыт работы:
@@ -32,10 +31,10 @@ mintyleafdev@gmail.com
 * Kotlin (android)
 
 ## Проекты:
-* play.google.com/store/apps/details?id=com.galament.bcs_connect (приложение над которым я работал а БКС)
-* reddit.com/r/indiegames/comments/f4nwrq/teaser/ (тизер к своему большому долгострою)
-* github.com/mintyleaf (мой гитхаб)
-* github.com/HGRussian (гитхаб моей геймдев команды)
+* [Приложение, над которым я работал в БКС](play.google.com/store/apps/details?id=com.galament.bcs_connect)
+* [Тизер к своему большому долгострою](reddit.com/r/indiegames/comments/f4nwrq/teaser/)
+* [Мой гитхаб](github.com/mintyleaf)
+* [Гитхаб моей геймдев команды](github.com/HGRussian)
 
 ## Хобби:
 * Музыка (гитара, экстрим вокал, написание партий)
