@@ -8,13 +8,13 @@ mintyleafdev@gmail.com
 * 2017 - сейчас
 
 
-различная помощь разработчикам на godot (фриланс)
+    различная помощь разработчикам на godot (фриланс)
 
 * ноябрь 2019 - май 2020
 
 
-"главный специалист по разработке Android" БКС Технологии
-(поддержка дропнутого с аутсорса приложения BCS Forex)
+    "главный специалист по разработке Android" БКС Технологии
+    (поддержка дропнутого с аутсорса приложения BCS Forex)
 
 ## Образование:
 * среднее
@@ -26,7 +26,10 @@ mintyleafdev@gmail.com
 * французский начальный
 
 ## Скилл:
-C, *nix, sh, bash, gdscript, go, C++, Kotlin (android)
+* C, *nix, sh, bash
+* gdscript
+* go, C++
+* Kotlin (android)
 
 ## Проекты:
 * play.google.com/store/apps/details?id=com.galament.bcs_connect (приложение над которым я работал а БКС)
