@@ -32,7 +32,7 @@
 
 ## Скилл:
 * golang
-* docker, docker-compose
+* docker, docker-compose, mongo, sqlite
 * C, *nix, sh, bash, python
 * gdscript
 * kotlin (android)
