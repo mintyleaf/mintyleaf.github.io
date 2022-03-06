@@ -33,6 +33,7 @@
 ## Скилл:
 * golang
 * docker, docker-compose, mongo, sqlite
+* lua (luci apps for openwrt)
 * C, *nix, sh, bash, python
 * gdscript
 * kotlin (android)
