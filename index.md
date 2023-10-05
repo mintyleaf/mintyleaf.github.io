@@ -58,6 +58,6 @@ Trello
 https://www.reddit.com/r/unixporn/comments/73s9je/bspwm_ship_pines  
 https://www.reddit.com/r/unixporn/comments/g52lyv/berry_less_is_more  
 - Hackintosh (Opencore)
-[Thinkpad X260](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore) [Чужое]
+[Thinkpad X260](https://github.com/SuhailSherief/ThinkPad-x260-macOS-OpenCore) [Чужое]  
 Dell Vostro 5390 [TBD, собрал сам]
 
