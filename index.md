@@ -2,8 +2,8 @@
 
 Tbilisi  
 mintyleafdev@gmail.com  
-[telegram](t.me/mintyleaf)  
-[linkedin](linkedin.com/in/mintyleaf)  
+[telegram](https://t.me/mintyleaf)  
+[linkedin](https://linkedin.com/in/mintyleaf)  
 
 ------------------- ----------------------------
 ## Опыт работы
