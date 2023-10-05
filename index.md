@@ -3,6 +3,7 @@
 Tbilisi  
 mintyleafdev@gmail.com  
 [telegram](t.me/mintyleaf)  
+[linkedin](linkedin.com/in/mintyleaf)  
 
 ------------------- ----------------------------
 ## Опыт работы
@@ -27,7 +28,7 @@ DevOps/Backend developer
 - Работа с сетевым стеком ядра
 - Оркестрация
 
-Go, MongoDB, MQTT, C, Linux, Bash, Lua, Docker, OpenWrt  
+Go, MongoDB, Mosquitto MQTT, C, Linux, Bash, Lua, Docker, OpenWrt  
 JIRA  
 
 **БКС**
